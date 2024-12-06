@@ -1,2 +1,2 @@
 # JS
- learning journey of Javascript
+ Follow my learning journey of Javascript
